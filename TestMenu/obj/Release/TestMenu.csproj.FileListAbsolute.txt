@@ -1,0 +1,6 @@
+C:\Users\simon.DESKTOP-2NU33DQ\source\repos\TestMenu\TestMenu\bin\Release\TestMenu.exe.config
+C:\Users\simon.DESKTOP-2NU33DQ\source\repos\TestMenu\TestMenu\bin\Release\TestMenu.exe
+C:\Users\simon.DESKTOP-2NU33DQ\source\repos\TestMenu\TestMenu\bin\Release\TestMenu.pdb
+C:\Users\simon.DESKTOP-2NU33DQ\source\repos\TestMenu\TestMenu\obj\Release\TestMenu.csproj.CoreCompileInputs.cache
+C:\Users\simon.DESKTOP-2NU33DQ\source\repos\TestMenu\TestMenu\obj\Release\TestMenu.exe
+C:\Users\simon.DESKTOP-2NU33DQ\source\repos\TestMenu\TestMenu\obj\Release\TestMenu.pdb
